@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/O9wDEslL589lAJMrZfRB31/Angel-Leonardo-Florez-Luna?type=design&node-id=0%3A1&mode=design&t=WZ2OeDTLX1a1wmRF-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto-2">
 
 <h2>Punto 3: Diseño con CSS</h2>
 
