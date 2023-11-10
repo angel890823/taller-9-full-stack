@@ -1,13 +1,25 @@
 table {
     border-collapse: collapse;
     border: 1px dotted black;
-    border-bottom: 1px dotted red;
     margin: 10px 250px;
     background-color: yellow;
 }
 
+thead {
+    color: red;
+}
+
 td {
     border: 1px dotted black;
+}
+
+.font__size {
+    font-size: 25px;
+}
+
+.line-bottom {
     border-bottom: 1px dotted red;
 }
+
+
 
