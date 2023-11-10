@@ -1,13 +1,19 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
-div {
+.enlaces {
+    justify-content: center;
+    width: 325px;
+    height: 160px;
     text-align: left; 
 }
 
-h1 {
-    text-align: center;
+.marca {
+    color: yellow;
+}
+
+.as {
+    color: blueviolet;
 }

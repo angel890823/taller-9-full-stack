@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    
+    width: 600px;
+    height: 80px;
+    margin: 50px 300px;
+    background-color: rgba(182, 103, 182, 0.452);
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    width: 340px;
+    height: 60px;
+    
+
+    color: white;
+    gap: 40px;
+    list-style: none;
+}
+
+.begin {
+    padding: 18px;
+
+    background-color: blue;
+}
+
