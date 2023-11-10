@@ -1,3 +1,13 @@
 table {
-    border: 1px solid;
+    border-collapse: collapse;
+    border: 1px dotted black;
+    border-bottom: 1px dotted red;
+    margin: 10px 250px;
+    background-color: yellow;
 }
+
+td {
+    border: 1px dotted black;
+    border-bottom: 1px dotted red;
+}
+
